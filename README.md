@@ -1,7 +1,5 @@
 # 🛡️ BharashaRide AI – Driver Drowsiness & Yawning Detection System
 
-![BharashaRide Banner](https://github.com/user-attachments/assets/c666ed96-8d8b-4669-b0ad-d3b4894c3d2c)
-
 A full-stack AI-powered safety dashboard that detects **driver drowsiness**, **yawning**, and **emotion** in real-time using webcam input. Built using **ReactJS** for the frontend and **FastAPI + OpenCV** for the backend.
 
 > 🎥 Watch the live demo on YouTube:  
