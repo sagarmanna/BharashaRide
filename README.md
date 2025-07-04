@@ -41,4 +41,19 @@ A full-stack AI-powered safety dashboard that detects **driver drowsiness**, **y
 ---
 
 ## 📁 Project Structure
-
+bharasharide_fullstack/
+├── backend/
+│ ├── app.py
+│ ├── drowsiness_detector.py
+│ ├── emotion_detector.py
+│ ├── shape_predictor_68_face_landmarks.dat
+│ └── start_server.py
+├── frontend/
+│ ├── public/
+│ │ ├── sound_alarm.wav
+│ │ └── index.html
+│ ├── src/
+│ │ ├── App.js
+│ │ ├── index.js
+│ │ └── index.css
+│ └── package.json
